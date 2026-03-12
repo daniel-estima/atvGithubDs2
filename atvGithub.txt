@@ -1,1 +1,2 @@
-1> clonado repositorio
+1> clonado repositório
+2> criado dev
